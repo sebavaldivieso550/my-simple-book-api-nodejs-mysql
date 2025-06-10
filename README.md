@@ -135,4 +135,3 @@ La API expone los siguientes endpoints para la gestión de libros:
 * **Método:** `DELETE`
 * **URL:** `http://localhost:3000/books/1` (Reemplaza `1` con el ID del libro).
 * **Respuestas:** `204 No Content` (Éxito), `404 Not Found` (Libro no encontrado).
-````
